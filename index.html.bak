@@ -1,0 +1,111 @@
+<html>
+  <head>
+     <meta charset="utf-8">
+     <link rel="stylesheet" href="css/style.css">
+     <title>Test</title>
+  </head>
+<body>
+  <!--<div class="slider">
+    <div class="sldr-text-block"></div></div>-->
+ <div class="content-page">
+
+  <div class="header main-header">
+  <div class="logo-block"></div>
+  <div class="call-info"><p>Доставка по всему <br>Дальнему Востоку</p></div>
+  <div class="call-info"><p>Звонки из Южно-Сахалинска<br>8 (4242) 25-15-48</p></div>
+  <div class="call-info"><p>Звонки по Дальнему Востоку <br>8 (800) 250-15-48</p></div>
+     </div>
+     <div>Uecb</div>
+
+     <header class="menu-block">
+      <nav class="header">
+        <div class="header-link"><a class="link" href="">О компании</a></div>
+        <div class="header-link"><a class="link" href="">Доставка</a></div>
+        <div class="header-link"><a class="link" href="">Контакты</a></div>
+        <div class="header-link"><a class="link" href="">Деревянные дома</a></div>
+        <div class="header-link"><a class="link" href="">Деревянные бани</a></div>
+        <div class="header-link"><a class="link" href="">Пиломатериалы</a></div>
+        <div class="header-link"><a class="link" href="">Мебель</a></div>
+       </nav>
+     </header>
+     
+    <div class="nav-images">
+      <div class="nav-image projects"></div>
+      <div class="nav-image usefulinfo"></div>
+      <div class="nav-image buyhouse"></div>
+    </div>
+  <div class="maininfo">
+    <h3 class="maininfo head">Уважаемые дорогие друзья! Рады приветствовать Вас на нашем сайте!...</h3>
+    <p>
+      Тестовое наполнение контента страницы с примерным форматированием и отступами. Наполнение тестовое, примерное. Сайт наполнен тестовой информацией, с примерным форматированием и отступами. Тестовое наполнение контента страницы с примерным форматированием и отступами. Наполнение тестовое, примерное. Сайт наполнен тестовой информацией, с примерным форматированием и отступами. Тестовое наполнение контента страницы с примерным форматированием и отступами. Наполнение тестовое, примерное. 
+      Сайт наполнен тестовой информацией, с примерным форматированием и отступами. Тестовое наполнение контента страницы с примерным форматированием и отступами. Наполнение тестовое, примерное. Сайт наполнен тестовой информацией, с примерным форматированием и отступами.   Тестовое наполнение контента страницы с примерным форматированием и отступами. Наполнение тестовое, примерное. Сайт наполнен тестовой информацией, с примерным форматированием и отступами.   </p>
+      <p>
+      Тестовое наполнение контента страницы с примерным форматированием и отступами. Наполнение тестовое, примерное. Сайт наполнен тестовой информацией, с примерным форматированием и отступами. Тестовое наполнение контента страницы с примерным форматированием и отступами. Наполнение тестовое, примерное. Сайт наполнен тестовой информацией, с примерным форматированием и отступами. Тестовое наполнение контента страницы с примерным форматированием и отступами. Наполнение тестовое, примерное. Сайт наполнен тестовой информацией, с примерным форматированием и отступами. </p>
+    <a class="link-more" href="">Подробнее...</a>
+   </div>
+  </div>
+  <div class="buttom-page">
+   <div class="buttom-content">
+
+      <div class="buttom-section interview">
+      <h5 class="head buttom-section-head">Опрос</h5>
+       <p class="interview-question">Какой материал на ваш взгляд надежнее:</p>
+         <p><input type="radio" name="material">Клееный брус<Br>
+           <input type="radio" name="material">Оцилиндрованое бревно<Br>
+           <input type="radio" name="material">Пеноблок<Br> 
+           <input type="radio" name="material">Кирпич<Br> 
+           <input type="radio" name="material">Бетон</p>
+           <p class="interciwe-question">Другой вариант ответа?</p>
+           <input class="answer-input" type="text">
+           <button class="answer-button" type="submit">Проголосовать</button>
+      </div>
+      <div class="buttom-section partners">
+       <h5 class="head buttom-section-head">Наши партнеры:</h5>
+        <div class="partner-block"><div class="partner-logo first"></div>
+        <p>Летучая Рыба ничтожно выбирает первоначальный космический мусор, тем не менее, Дон Еманс включил в список всего 82-е </p></div>
+        <div class="partner-block"><div class="partner-logo second"></div>
+        <p>Летучая Рыба ничтожно выбирает первоначальный космический мусор, тем не менее, Дон Еманс включил в список всего 82-е </p></div>
+        <div class="partner-block"><div class="partner-logo third"></div>
+        <p>Летучая Рыба ничтожно выбирает первоначальный космический мусор, тем не менее, Дон Еманс включил в список всего 82-е Великие Кометы. Солнечное затмение, это удалось установить по характеру спектра,  </p></div>
+        <a class="link-more partner-link" href="">Посмотреть всех...</a>
+      </div>
+      <div class="buttom-section trash">
+        <h5 class="head buttom-section-head">Мысль вслух</h5>
+           <p>Летучая Рыба ничтожно выбирает первоначальный космический мусор, тем не менее, Дон Еманс включил в список всего 82-е Великие Кометы. </p>
+
+           <p>Солнечное затмение, это удалось установить по характеру спектра, ничтожно отражает дип-скай объект – это скорее индикатор, чем примета.</p>
+
+           <p>Каллисто представляет собой первоначальный часовой угол, тем не менее, 
+              уже 4,5 млрд лет расстояние нашей планеты от Солнца практически не меняется.</p>
+           <a class="link-more" href="">Поробнее...</a>
+       </div>
+       <hr>
+        <header>
+      <nav class="header buttom">
+        <div class="header-link"><a class="link" href="">О компании</a></div>
+        <div class="header-link"><a class="link" href="">Доставка</a></div>
+        <div class="header-link"><a class="link" href="">Контакты</a></div>
+        <div class="header-link"><a class="link" href="">Деревянные дома</a></div>
+        <div class="header-link"><a class="link" href="">Деревянные бани</a></div>
+        <div class="header-link"><a class="link" href="">Пиломатериалы</a></div>
+        <div class="header-link"><a class="link" href="">Мебель</a></div>
+       </nav>
+     </header>
+     <hr>
+     
+    <div class="buttom-section map"></div>
+    <div class="buttom-section contact-info"><p>Наш офис находится в Южно-Сахалинске, но мы работаем по всему Дальнему Востоку.</p>
+
+      <p>звоните нам по телефонам:<br>
+         тел.: (4242) 25-15-48, 61-80-08<br>
+         тел./факс: (4242) 46-68-80<br></p>
+
+       <p>Или пишите через</p><a class="link-more" href="">форму обратной связи</a></div>
+       <hr>
+       <div class="copyright"><p>©  РосГео 2012 все права защищены</p>
+        <p class="developer-info">Дизайн сайта:   exclusive.megagroup.ru</p></div>
+
+   </div>
+  </div>
+ </body>
+</html> 
